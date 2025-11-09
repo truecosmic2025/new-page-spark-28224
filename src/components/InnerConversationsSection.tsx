@@ -1,7 +1,7 @@
 import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Check } from "lucide-react";
-import innerPeace from "@/assets/inner-peace.jpg";
+import innerPeace from "@/assets/inner-peace-new.jpg";
 
 export const InnerConversationsSection = () => {
   const characteristics = [
@@ -59,7 +59,7 @@ export const InnerConversationsSection = () => {
             className="bg-primary hover:bg-primary/90 text-primary-foreground font-semibold px-8"
             onClick={() => document.getElementById('booking')?.scrollIntoView({ behavior: 'smooth' })}
           >
-            Try It with Valentine — Free
+            Try It with Jenni — Free
           </Button>
         </div>
       </div>

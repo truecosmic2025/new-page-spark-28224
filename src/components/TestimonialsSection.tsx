@@ -2,9 +2,9 @@ import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Avatar, AvatarImage, AvatarFallback } from "@/components/ui/avatar";
 import { Quote } from "lucide-react";
-import testimonialAvatar1 from "@/assets/testimonial-avatar-1.jpg";
-import testimonialAvatar2 from "@/assets/testimonial-avatar-2.jpg";
-import testimonialAvatar3 from "@/assets/testimonial-avatar-3.jpg";
+import testimonialAvatar1 from "@/assets/testimonial-avatar-1-new.jpg";
+import testimonialAvatar2 from "@/assets/testimonial-avatar-2-new.jpg";
+import testimonialAvatar3 from "@/assets/testimonial-avatar-3-new.jpg";
 
 export const TestimonialsSection = () => {
   const testimonials = [
